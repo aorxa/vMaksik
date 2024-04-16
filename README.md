@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Max, I'm student.
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JAVA,HTML,CSS,PHP
+- 📫 How to reach me Discord: xskrrrt__
